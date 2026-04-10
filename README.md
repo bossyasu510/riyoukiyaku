@@ -31,6 +31,6 @@
   <p>本規約は日本法に準拠し、紛争が生じた場合は東京地方裁判所を専属的合意管轄とします。</p>
 
   <h2>第8条（お問い合わせ）</h2>
-  <p>Email：gonbee1230@gmail.com</p>
+  <p>Email：lifedesign48@gmail.com</p>
 </body>
 </html>
